@@ -3,7 +3,7 @@
  *  (Model: IM20)
  *
  *  Author: 
- *    Kevin LaFramboise (krlaframboise)
+ *    BeSense Team, Thanks to Kevin LaFramboise (krlaframboise) for your services and great work.
  *
  *  URL to documentation: 
  *    
@@ -27,8 +27,8 @@
 metadata {
 	definition (
 		name: "BeSense Door/Window Sensor ZWave Plus", 
-		namespace: "krlaframboise", 
-		author: "Kevin LaFramboise"
+		namespace: "BeSense", 
+		author: "BeSense Team"
 	) {
 		capability "Sensor"
 		capability "Contact Sensor"
