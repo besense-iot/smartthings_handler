@@ -3,7 +3,7 @@
  *  (Model: IM20)
  *
  *  Author: 
- *    BeSense Team, Thanks to Kevin LaFramboise (krlaframboise) for your services and great work.
+ *    BeSense Team.
  *
  *  URL to documentation: 
  *    
