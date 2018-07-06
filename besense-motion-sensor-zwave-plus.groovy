@@ -3,7 +3,7 @@
  *  (Model: IX30/IX32)
  *
  *  Author: 
- *    Kevin LaFramboise (krlaframboise)
+ *    BeSense Team
  *
  *  URL to documentation: 
  *    
@@ -27,8 +27,8 @@
 metadata {
 	definition (
 		name: "BeSense Motion Sensor ZWave Plus", 
-		namespace: "krlaframboise", 
-		author: "Kevin LaFramboise"
+		namespace: "Besense", 
+		author: "BeSense Team"
 	) {
 		capability "Sensor"
 		capability "Motion Sensor"
