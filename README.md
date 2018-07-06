@@ -10,7 +10,28 @@ Turn On/Off Motion LED option to save battery (Only for Firmware 18)
 
 ## Getting Started
 
-.
+Here are the instructions that should help you get the new custom handler
+
+1. Log in here with the same username and password you use for your SmartThings app: [SmartThings Groovy IDE](https://consigliere-regional.api.smartthings.com)
+
+2. Click on **My Device** Handlers in the top menu
+
+3. In the top right corner, click on **Create new device handler** and choose **From code** from the top tab menu. You'll be presented with a blank area where you can copy the code from these links and paste it in (it's always best to use the raw version of the code)
+
+
+* [Door/window sensor Code](https://github.com/besense-iot/smartthings_handler/blob/master/besense-door-window-sensor-zwave-plus.groovy)
+
+* [Wall and Ceiling Sensor Code](https://github.com/besense-iot/smartthings_handler/blob/master/besense-motion-sensor-zwave-plus.groovy)
+
+4. Next, scroll to the bottom and click Create. Now click Save, then click Publish > for me.
+
+**You should now see this device type in your list of Device Handlers**
+
+
+We’d really love to hear from you so why not drop us an email and we’ll get back to you as soon as we can.
+[info@besense-iot.com](http://besense-iot.com/)
+
+
 
 ### Prerequisites
 
@@ -18,78 +39,6 @@ Turn On/Off Motion LED option to save battery (Only for Firmware 18)
 This new handler needs the Firmware 17 or higher
 
 ```
+### More Info and Videos in out Youtube channel
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-
-
+[Besense Videos](https://www.youtube.com/channel/UCM1G8ks3bRvOLTWLYpe0oFw)
