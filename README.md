@@ -1,4 +1,4 @@
-# smartthings_handler
+# Custom SmartThings Handler
 New Smartthings Handler for:
 * BeSense 360 Ceiling Sensor (IX32)
 * BeSense PIR Wall Sensor (IX30)
