@@ -1,14 +1,17 @@
 /**
- *  BeSense Motion Sensor ZWave Plus v1.0.1
+ *  BeSense Motion Sensor ZWave Plus v1.0.2
  *  (Model: IX30/IX32)
  *
  *  Author: 
- *    BeSense Team
+ *    Kevin LaFramboise (krlaframboise)
  *
  *  URL to documentation: 
  *    
  *
  *  Changelog:
+ *
+ *    1.0.2 (07/30/2018)
+*    	- Added support for new mobile app.
  *
  *    1.0.1 (07/04/2018)
  *      - Initial Release
@@ -27,8 +30,9 @@
 metadata {
 	definition (
 		name: "BeSense Motion Sensor ZWave Plus", 
-		namespace: "Besense", 
-		author: "BeSense Team"
+		namespace: "krlaframboise", 
+		author: "Kevin LaFramboise",
+		vid: "generic-motion-5"
 	) {
 		capability "Sensor"
 		capability "Motion Sensor"
