@@ -3,7 +3,7 @@
  *  (Model: IM20)
  *
  *  Author: 
- *    Kevin LaFramboise (krlaframboise)
+ *    Kevin LaFramboise (krlaframboise) - BeSense
  *
  *  URL to documentation: 
  *    
