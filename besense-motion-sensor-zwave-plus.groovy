@@ -3,7 +3,7 @@
  *  (Model: IX30/IX32)
  *
  *  Author: 
- *    Kevin LaFramboise (krlaframboise)
+ *    Kevin LaFramboise (krlaframboise) - BeSense inc.
  *
  *  URL to documentation: 
  *    
