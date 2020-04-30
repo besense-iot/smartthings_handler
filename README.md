@@ -5,7 +5,7 @@ New Smartthings Handler for:
 * BeSense Window/Door Sensor (IM20)
 
 Reports Motion, Battery, Tamper, and allows you to change the Alarm elimination Time.
-Turn On/Off Motion LED option to save battery (Only for Firmware 18)
+Turn On/Off Motion LED option to save battery (Only for IX32)
 
 
 ## Getting Started
